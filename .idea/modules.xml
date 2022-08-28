@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/codegym_modun2_MinitestW3.iml" filepath="$PROJECT_DIR$/.idea/codegym_modun2_MinitestW3.iml" />
       <module fileurl="file://$PROJECT_DIR$/minitestW3/minitestW3.iml" filepath="$PROJECT_DIR$/minitestW3/minitestW3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minitestW4/minitestW4.iml" filepath="$PROJECT_DIR$/minitestW4/minitestW4.iml" />
     </modules>
   </component>
 </project>
